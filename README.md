@@ -1,1 +1,1 @@
-# first-react-app
+# A small ReactJS application to track expenses
