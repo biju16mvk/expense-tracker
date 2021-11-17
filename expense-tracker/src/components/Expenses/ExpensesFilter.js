@@ -3,7 +3,6 @@ import React from "react";
 import "./ExpensesFilter.css";
 
 const ExpensesFilter = props => {
-
   const filterByYearHandler = event => {
     props.onSelectFilter(event.target.value);
   };
