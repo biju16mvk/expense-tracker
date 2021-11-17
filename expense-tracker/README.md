@@ -1,4 +1,4 @@
-# A small expense tracker application that has not storage or anything
+# A small expense tracker application that has no storage or anything
 
 ## Available Scripts
 
